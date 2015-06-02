@@ -26,7 +26,6 @@ public class RcvViewHolder extends RecyclerView.ViewHolder implements View.OnCli
         cv.setOnClickListener(this);
     }
 
-
     /**
      * Called when a view has been clicked.
      *

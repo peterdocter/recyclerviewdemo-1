@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="?android:colorControlHighlight">
+    <!--<item>-->
+        <!--<selector>-->
+            <!--<item android:state_pressed="true">-->
+                <!--<color android:color="@color/item_select_p"/>-->
+            <!--</item>-->
+            <!--<item>-->
+                <!--<color android:color="@color/item_select_n"/>-->
+            <!--</item>-->
+        <!--</selector>-->
+    <!--</item>-->
+</ripple>

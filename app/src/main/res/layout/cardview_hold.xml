@@ -9,6 +9,8 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:clickable="true"
+        android:foreground="@drawable/item_list_selector"
+        style="@style/MyAppTheme"
         android:layout_marginTop="4dp"
         android:layout_marginBottom="4dp">
 

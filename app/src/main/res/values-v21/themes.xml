@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyAppTheme" parent="Theme.AppCompat.Light">
+        <item name="android:colorPrimary">@color/item_select_n</item>
+        <item name="android:colorAccent">@color/accent_material_dark</item>
+        <item name="android:colorControlActivated">#ff0000</item>
+        <item name="android:colorActivatedHighlight">#00ff00</item>
+        <item name="android:colorControlNormal">#ffff00</item>
+        <item name="android:colorPrimaryDark">#0000ff</item>
+    </style>
+</resources>
